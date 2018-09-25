@@ -9,6 +9,7 @@
     //page class
     Html.AppendPageCssClassParts("html-account-page");
     Html.AppendPageCssClassParts("html-back-in-stock-subscription-list-page");
+
 }
 @section left
 {
@@ -17,7 +18,7 @@
 <div class="page account-page back-in-stock-subscription-list-page">
     <div class="page-title">
         <h1>@T("Account.MyAccount") - @T("Account.BackInStockSubscriptions")</h1>
-        <div>@T("Account.MyAccount.Heading")</div>
+        <div>Account heading</div>
     </div>
     <div class="page-body">
         @if (Model.Subscriptions.Count > 0)
