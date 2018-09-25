@@ -1,0 +1,11 @@
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\Configure.cshtml
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\web.config
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Description.txt
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll.config
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+F:\npop\isha\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.csproj.App.config
+F:\npop\isha\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.csprojResolveAssemblyReference.cache
+F:\npop\isha\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.dll
+F:\npop\isha\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.pdb

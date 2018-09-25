@@ -1,0 +1,12 @@
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\Configure.cshtml
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Description.txt
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\web.config
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\ProductAddPopup.cshtml
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\logo.jpg
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll.config
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll
+F:\npop\isha\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.pdb
+F:\npop\isha\nopCommerce_3.90_Source\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.csproj.App.config
+F:\npop\isha\nopCommerce_3.90_Source\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.csprojResolveAssemblyReference.cache
+F:\npop\isha\nopCommerce_3.90_Source\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.dll
+F:\npop\isha\nopCommerce_3.90_Source\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.pdb
