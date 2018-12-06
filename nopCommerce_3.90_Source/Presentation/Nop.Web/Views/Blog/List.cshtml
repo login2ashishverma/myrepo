@@ -15,6 +15,7 @@
     @Html.Action("BlogTags", "Blog")
     @Html.Widget("left_side_column_blog_after")
 }
+
 <div class="page blog-page">
     <div class="page-title">
         <a href="@Url.RouteUrl("BlogRSS", new { languageId = Model.WorkingLanguageId })" class="link-rss" title="@T("Blog.RSS.Hint")">@T("Blog.RSS")</a>
