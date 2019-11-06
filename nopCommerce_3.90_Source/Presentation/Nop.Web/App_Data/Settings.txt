@@ -1,2 +1,0 @@
-DataProvider: sqlserver
-DataConnectionString: Data Source=DELL\Sqlserver;Initial Catalog=EmployeeManagement;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=shiv
